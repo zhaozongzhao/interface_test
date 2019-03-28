@@ -1,0 +1,8 @@
+[
+  "test_four.py::test_asdit",
+  "test_four.py::test_replace",
+  "test_one.py::test_passing",
+  "test_one.py::test_two",
+  "test_three.py::test_defalults",
+  "test_three.py::test_member_access"
+]

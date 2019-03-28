@@ -1,0 +1,98 @@
+ Tue, 23 Oct 2018 11:13:18  INFO myLogger2.py <module> [ line:20 ] hehehe
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340075","pwd":"1234567890"}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340076","pwd":"1234567890","regname":"xiaojian"}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"","pwd":"1234567890","regname":"xiaojian"}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340077","pwd":"","regname":"简"}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"1376024607","pwd":"1234567890","regname":"xiaojian"}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"1376024607011","pwd":"1234567890","regname":"xiaojian"}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340077","pwd":"1234","regname":u"xiaojian"}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340077","pwd":"1234567890123456789","regname":u"xiaojian"}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340076","pwd":"1234567890","regname":u"xiaojian"}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340076","pwd":"1234567890"}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"","pwd":"1234567890"}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340076","pwd":""}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340077","pwd":"1234567890"}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340076","pwd":"12345678911"}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340076","amount":"200"}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340076","amount":"200.3"}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340076","amount":"200.35"}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"","amount":"200.35"}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340076","amount":"0"}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340076","amount":""}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"1376024607","amount":"200"}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"1376024607011","amount":"200"}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340077","amount":"200"}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340076","amount":"200.333"}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340076","amount":"500001"}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"mobilephone":"18612340076","amount":"200块"}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"memberId":${user_id}}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"memberId":${user_id}}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"memberId":"${user_id}","title":"接口自动化_小简_18612340076","amount":50000,"loanRate":10,"loanTerm":90,"loanDateType":2,
+         "repaymemtWay":10,"biddingDays":10}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+None
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"id":"${loan_id}","status":4}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_init_datas [ line:20 ] 初始化数据为：{'${init_phone}': '18612340075', '${phone}': '18612340076', '${noReg_phone}': '18612340077'}
+ Tue, 23 Oct 2018 11:13:19  INFO DoExcel.py get_caseDatas_all [ line:43 ] 初始化之后的请求数据为：
+{"memberId":"${user_id}","password":"1234567890","loanId":"${loan_id}","amount":"500"}

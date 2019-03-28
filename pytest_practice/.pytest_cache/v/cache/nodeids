@@ -1,0 +1,8 @@
+[
+  "pytest\u5165\u95e8/test_four.py::test_asdit",
+  "pytest\u5165\u95e8/test_four.py::test_replace",
+  "pytest\u5165\u95e8/test_one.py::test_passing",
+  "pytest\u5165\u95e8/test_one.py::test_two",
+  "pytest\u5165\u95e8/test_three.py::test_defalults",
+  "pytest\u5165\u95e8/test_three.py::test_member_access"
+]
