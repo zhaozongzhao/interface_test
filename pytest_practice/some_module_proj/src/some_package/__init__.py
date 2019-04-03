@@ -1,0 +1,1 @@
+from pytest_practice.some_module_proj.src.some_package.some_module import *
